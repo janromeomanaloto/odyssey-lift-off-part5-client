@@ -12,6 +12,8 @@ The course will walk you step by step on how to implement the features you see i
 
 This repo is the starting point of our React client application.
 
+test
+
 To get started:
 
 1. Run `npm install`.
